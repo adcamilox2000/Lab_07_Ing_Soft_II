@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  *
- * @author yeixongec
+ * @author adcam
  */
 public abstract class ProjectBuilder {
     protected String name;

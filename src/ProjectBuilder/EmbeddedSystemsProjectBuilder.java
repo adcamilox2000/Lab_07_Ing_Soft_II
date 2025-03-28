@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  *
- * @author yeixongec
+ * @author adcam
  */
 public class EmbeddedSystemsProjectBuilder extends ProjectBuilder{
      @Override
