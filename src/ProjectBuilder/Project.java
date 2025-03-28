@@ -26,6 +26,21 @@ public class Project {
         this.numStudents = numStudents;
         this.difficulty = difficulty;
     }
+       public String getName() {
+    return name;
+}
+
+public String getCompany() {
+    return company;
+}
+
+public int getNumStudents() {
+    return numStudents;
+}
+
+public String getDifficulty() {
+    return difficulty;
+}
      @Override
     public String toString() {
         return "Project{" +
@@ -37,5 +52,6 @@ public class Project {
                 ", difficulty='" + difficulty + '\'' +
                 '}';
     }
-    
+
+
 }
